@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "e0a52d261c6c91c2c4dcc889",
+  "owner": "wfcywcta",
+  "repo": "wfcywcta.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "b37db52d2f2034173b3b9052",
+      "a": "Shadowsocks",
+      "b": "官网",
+      "entity": "Shadowsocks",
+      "brand": "Shadowsocks",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5f32a2ceb356af089d7e6f5f18c2b18a7cf9039a3e40936bffa147537f5fa9d7",
+      "content": {
+        "primary_entity": "Shadowsocks",
+        "keyword1": "Shadowsocks",
+        "keyword2": "官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供多档套餐与多端客户端适配，方便按流量与设备数挑选合适方案。",
+          "AI_HERO_SUBTITLE": "轻量代理，畅连全球",
+          "AI_HERO_INTRO": "Shadowsocks 是一款轻量级代理工具，适合需要稳定跨境网络连接的用户。提供基础版、旗舰版和团队版三档套餐，覆盖个人轻量使用到多设备团队协作，可结合客户端灵活配置订阅。",
+          "AI_VISUAL_TITLE": "选择你的连接方案",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "多端客户端配置支持",
+          "AI_HIGHLIGHT_3": "流媒体与游戏线路优化",
+          "AI_FEATURES_TITLE": "为什么选择这些套餐",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路质量三个维度，帮你匹配最适合的套餐。",
+          "AI_FEATURE_TITLE_1": "套餐按需匹配",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版覆盖多数日常场景，团队版支持多设备协同。",
+          "AI_FEATURE_TITLE_2": "设备数量明确",
+          "AI_FEATURE_TEXT_2": "各档套餐对应不同的同时在线设备上限，按实际需要选择更合适。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付方案在总支出上更划算，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同的客户端，请根据设备类型选择并参照其文档完成订阅配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比流量额度、设备上限与线路特性，找到适合你的方案。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按步骤操作即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，从三档套餐中挑选合适的一个。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认你的设备系统与所选套餐的设备数量上限是否匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端的文档说明，导入订阅信息完成连接设置。",
+          "AI_CLOSING_TITLE": "立即选择套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求，挑选最适合你的方案开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量额度、同时在线设备数及节点类型。旗舰版流量更充裕，支持更多设备，且包含专线优化节点，适合流媒体与游戏需求较高的用户。基础版则满足日常浏览和轻量使用。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持三台设备同时在线，旗舰版为五台，团队版为二十台。按实际常用设备数量选择对应套餐即可，无需为偶尔使用的设备单独升级。",
+          "AI_FAQ_QUESTION_3": "订阅应该如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在所选客户端的配置界面中找到订阅导入选项，粘贴订阅信息后保存。不同客户端操作路径略有差异，按照对应客户端的配置文档逐步设置即可完成。",
+          "AI_FAQ_QUESTION_4": "年付和月付该怎么选？",
+          "AI_FAQ_ANSWER_4": "如果只是短期尝试，月付更灵活；确定长期使用时，年付价格更低。三个套餐都提供年付方案，可按项目周期或日常使用习惯决定订阅时长。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人协作或设备数量较多的场景，提供更高流量额度、更多同时在线的设备支持，以及专属节点和客户经理服务，适合企业或小组统一使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "749fe3c1edc1ca393d566f55ff0156b15879721cc3f48f5f50c8b438561a0355",
+    "sitemap.xml": "6725b1f4f5451d65c856eea4ae25e80a7e9114744a4151e08285f6aaa708fde4",
+    "robots.txt": "46781c5ee5e3dc11e7f65b813b15c298bd05a3388fed1de40e01ae79d830e3fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2a717e1326807be377fb6d250352560523ea9080d2c2b3ce795bf9b59a17fe85"
+}
